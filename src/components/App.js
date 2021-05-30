@@ -5,8 +5,8 @@ const App = () => {
   return (
     <div id="main">
      
-            <p data-ns-test = "project-name">This website contains the best CS tutorials.</p> 
-    <p data-ns-test = "project-name">I am learning React. My life is getting better.</p> 
+            <h1 data-ns-test = "project-name">This website contains the best CS tutorials.</h1> 
+    <p data-ns-test = "project-description">I am learning React. My life is getting better.</p> 
              
 
 </div>
