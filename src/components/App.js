@@ -3,10 +3,35 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <div id="root">
-    <h1>Getting Started with React - Rendering Multiple Components with React</h1>
-    <p>I am learning React. My life is getting better. </p>
-    </div>
+    <div id="main">
+
+ {/* Do not remove the main div */}
+
+ <div>
+
+ <ol>
+
+ <li key="location1">Goa</li>
+
+ <li key="location2">Amsterdam</li>
+
+ <li key="location3">New York</li>
+
+ <li key="location1">Darjeeling</li>
+
+ <li key="location1">Tokyo</li>
+
+ <li key="location1">Lonavala</li>
+
+ </ol>
+
+ 
+
+</div>
+
+ 
+
+</div>
   )
 }
 
